@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "200abbbc33b2f35d2bf7fa40",
+  "owner": "neejxxpus",
+  "repo": "page-6227d5d7cd0ded41299e8a43",
+  "title": "飞天网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6227d5d7cd0ded41299e8a43",
+      "a": "飞天网络",
+      "b": "稳定全球clash加速器",
+      "entity": "飞天网络",
+      "brand": "飞天网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "027ebb7067dcc6db56304574dca9306bfd9e740bb6db98e562c55ad42f2ce555",
+      "content": {
+        "primary_entity": "飞天网络",
+        "keyword1": "飞天网络",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，Windows 可选 Clash Verge，macOS 常用 ClashX，Android 用 Clash Meta，iOS 可搭配 Shadowrocket 或 Stash。",
+          "AI_CLIENTS_TITLE": "按设备挑客户端",
+          "AI_CLOSING_TEXT": "先按设备量挑套餐，再对照所选客户端的订阅文档完成配置。",
+          "AI_CLOSING_TITLE": "从设备数量出发选套餐",
+          "AI_DESCRIPTION": "，飞天网络提供基础版、旗舰版与团队版三档套餐，月付价格从 ¥15 到 ¥85，年付方案分别为 ¥150、¥350 与 ¥850。基础版含 100GB 流量、3 台设备；旗舰版含 300GB 流量、5 台设备并带 IPLC 专线；团队版含 1000GB 流量、20 台设备与专属高带宽节点。按设备数量与流量需求对应选择，再参考客户端订阅文档完成配置。",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模与订阅周期三个角度对比套餐，快速定位合适版本。",
+          "AI_FEATURES_TITLE": "套餐选择三个判断点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台；按常用设备总数对号入座即可。",
+          "AI_FEATURE_TEXT_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月实际用量选择，避免中途调整。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用优先年付方案。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量规模",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选服务、查适配、配订阅，三步完成从选购到可用。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "飞天网络提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备与 100GB 至 1000GB 月流量，按设备数量与使用强度选择对应版本即可。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择订阅版本",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付方案低至 ¥150 起",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备轻度使用，旗舰版适合 5 台设备与流媒体、游戏场景，团队版面向 20 台设备的高带宽需求。",
+          "AI_PLANS_TITLE": "三档套餐按需对比",
+          "AI_STEP_TEXT_1": "按常用设备数量与每月流量估算，在基础版、旗舰版与团队版之间选出匹配版本。",
+          "AI_STEP_TEXT_2": "确认所选设备系统支持的客户端版本与配置要求，例如 Clash Verge、ClashX 或 Clash Meta。",
+          "AI_STEP_TEXT_3": "获取订阅信息后，依客户端文档导入订阅并选择节点，完成连接测试。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "飞天网络多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备；旗舰版每月300GB流量，支持5台设备；团队版每月1000GB流量，支持20台设备。",
+          "AI_FAQ_ANSWER_2": "旗舰版与团队版适合流媒体与游戏优化需求，基础版提供基础流媒体解锁，按实际使用场景选择。",
+          "AI_FAQ_ANSWER_3": "节点与线路会保持更新，订阅用户可在客户端内获取最新配置，无需手动更换。",
+          "AI_FAQ_ANSWER_4": "建议根据同时在线设备数选择，3台以内可选基础版，5台左右选旗舰版，20台选团队版。",
+          "AI_FAQ_ANSWER_5": "各套餐可按月或按年付费，按年付有相应优惠，具体金额以套餐列表为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "流媒体和游戏加速适合哪个套餐？",
+          "AI_FAQ_QUESTION_3": "订阅后节点线路需要自己更换吗？",
+          "AI_FAQ_QUESTION_4": "多设备同时在线应该选哪个套餐？",
+          "AI_FAQ_QUESTION_5": "付费周期和优惠如何计算？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mesv5c37bkuu8ugd73a.com",
+    "host": "xn--mesv5c37bkuu8ugd73a.com"
+  },
+  "file_hashes": {
+    "index.html": "a5603b13413ad3ba1f88d1255e6d403cff176de11c461fdc360d88334bb104ff",
+    "sitemap.xml": "3a6bdb1d1fe8c0a1435c48060d27140d4235e44096ee0add76bc60539d152aa7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "46dd29aa6ea67acd112041cd614ad290665759a44a4c385f98b1f31b4591b7e6",
+    "robots.txt": "930f005c1c1e051befd06c16d7e6fb30b14efc699ce913d7bcb3a9f024424b21",
+    "ba977c7bce2da67c97c9aa2007111af6.txt": "8cbc6874db691ce4d98b8d0b0301edef5559df8470beb9fa43fc5b055bf7bbfa"
+  },
+  "revision": "32a85115405cd704798e64a0f6890cec1ee7a871b3fa46774a563a624b962aba"
+}
